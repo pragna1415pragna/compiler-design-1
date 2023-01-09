@@ -2,14 +2,17 @@
  S → (L)/a
  L → SL’
  L’ → ,SL’/∈
+ 
 2.		Implement C program to demonstrate shift reduce parsing technique the grammar:
 E → E + E/E*E/ E/E /a/b
+
 3.		Write a C program to implement Predictive parser for the following grammar
  E → TE’
  E’→ +TE’/∈
  T → FT’
  T’→ *FT’/∈
  F → (E)/i
+ 
 4.		Write a C program to implement symbol table by insert, modify, search and delete.
 
 5.		Develop a lexical analyzer to identify identifiers, constants, operators using C program.
