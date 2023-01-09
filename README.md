@@ -58,5 +58,6 @@ b) Write a LEX program to identify vowels and consonants in the given input.
 
 23.		a) Write a LEX program to count the number of comment lines in a given C program and eliminate them and write into another file.
 b) Write a LEX program to print all HTML tags in the input file.
+
 24.		a) Write a LEX program to print all the constants in the given C source program file.
 b) Write a LEX specification file to take input C program from .c file and count the number of characters, number of lines & number of words.
